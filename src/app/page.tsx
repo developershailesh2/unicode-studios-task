@@ -55,7 +55,7 @@ export default function Home() {
       <div className="pt-22 w-full mb-10">
         <Image
           className="w-full p-4 object-cover"
-          src="/images/image.png"
+          src="/images/first.png"
           width={1390}
           height={514}
           alt="First Image"
